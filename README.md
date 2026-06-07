@@ -78,31 +78,31 @@ The Skill Gap Analyzer addresses this challenge by automatically:
 
 ## System Workflow
 
-Resume Input
+                                      Resume Input
 
-     ↓
+                                           ↓
 
-Text Extraction
+                                      Text Extraction
 
-     ↓
+                                           ↓
 
-NLP Skill Extraction
+                                   NLP Skill Extraction
+  
+                                           ↓
 
-     ↓
+                                  Job Role Skill Matching
 
-Job Role Skill Matching
+                                           ↓
 
-     ↓
+                                  Skill Gap Identification
 
-Skill Gap Identification
+                                           ↓
 
-     ↓
+                                  Performance Evaluation
 
-Performance Evaluation
+                                           ↓
 
-     ↓
-
-Visualization Dashboard
+                                 Visualization Dashboard
 
 ---
 
@@ -152,35 +152,11 @@ Research outcomes were presented at:
 
 ---
 
-## Project Structure
-
-Skill-Gap-Analyzer-NLP
-
-├── data/
-
-├── models/
-
-├── scripts/
-
-├── screenshots/
-
-├── reports/
-
-├── main.py
-
-├── visualizations.py
-
-├── requirements.txt
-
-└── README.md
-
----
-
 ## Installation
 
 Clone the repository:
 
-git clone https://github.com/USERNAME/Skill-Gap-Analyzer-NLP.git
+git clone https://github.com/USERNAME/Skill-Gap-Analyzer-NLP.git](https://github.com/patilanuja602/Skill-Gap-Analyzer-NLP.git
 
 Move into the project directory:
 
@@ -208,7 +184,7 @@ streamlit run main.py
 
 ## Authors
 
-Anuja Chidanand Patil
+Patil Anuja Chidanand 
 
 Computer Science and Engineering
 
