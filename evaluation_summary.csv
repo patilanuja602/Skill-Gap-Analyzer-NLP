@@ -1,0 +1,2 @@
+num_resumes,global_TP,global_FP,global_FN,micro_precision,micro_recall,micro_f1,macro_precision,macro_recall,macro_f1
+50,165,0,37,1.0,0.8168,0.8992,1.0,0.82,0.8914

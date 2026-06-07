@@ -1,0 +1,137 @@
+job_title,skills
+web developer,html css javascript react node.js express sql git github api
+frontend developer,html css javascript react redux tailwind typescript
+backend developer,node.js express django flask mongodb sql api jwt
+full stack developer,html css javascript react node.js express mongodb sql git docker
+python developer,python django flask sql oop pandas numpy git
+java developer,java spring hibernate maven junit sql oops
+dotnet developer,.net c# asp.net entity framework sql mvc visual studio
+android developer,kotlin java android studio xml firebase jetpack compose
+ios developer,swift xcode core data ui kit firebase mvvm
+devops engineer,aws docker kubernetes linux gitlab jenkins ansible terraform
+cloud engineer,aws azure gcp cloudformation terraform linux docker
+data analyst,python sql excel tableau powerbi pandas numpy matplotlib
+data scientist,python machine learning pandas numpy tensorflow scikit-learn matplotlib
+ml engineer,python machine learning deep learning tensorflow keras pytorch sklearn
+ai engineer,python llm transformers nlp tensorflow pytorch huggingface
+nlp engineer,python nlp spacy transformers bert llm huggingface
+cybersecurity analyst,network security firewalls kali linux wireshark vulnerability assessment linux
+blockchain developer,solidity ethereum web3 smart contracts ganache truffle
+qa tester,manual testing selenium test cases jira postman bug reporting
+automation tester,selenium python cypress playwright jenkins testng maven
+ui/ux designer,figma adobe xd prototyping user research wireframing html css
+technical writer,documentation markdown git api writing sdlc uml
+junior web developer,git github html sql express node.js javascript
+senior web developer,node.js javascript html sql express css api git github react
+associate web developer,api github sql express css javascript html react
+lead web developer,node.js express css git api html
+intern web developer,react git html sql github css node.js express
+consultant web developer,react git github node.js css
+junior frontend developer,html react redux css tailwind javascript
+senior frontend developer,javascript react typescript tailwind redux
+associate frontend developer,css redux tailwind react html javascript
+lead frontend developer,react javascript html redux tailwind css typescript
+intern frontend developer,typescript react tailwind html redux
+consultant frontend developer,redux react html javascript css
+junior backend developer,django api mongodb jwt sql express
+senior backend developer,node.js mongodb jwt flask express sql api
+associate backend developer,mongodb jwt django sql flask node.js
+lead backend developer,mongodb node.js api django flask
+intern backend developer,node.js api sql django flask mongodb express jwt
+consultant backend developer,sql node.js api express django
+junior full stack developer,javascript express docker css html node.js
+senior full stack developer,express docker sql javascript css react node.js html git
+associate full stack developer,git sql express javascript node.js html mongodb docker react
+lead full stack developer,html docker mongodb javascript css react
+intern full stack developer,express mongodb docker javascript react
+consultant full stack developer,express css git docker javascript node.js mongodb
+junior python developer,django pandas oop sql git
+senior python developer,numpy pandas sql python oop flask
+associate python developer,git pandas sql oop numpy flask
+lead python developer,python git numpy oop pandas django sql flask
+intern python developer,pandas django oop git flask sql python
+consultant python developer,django oop git pandas flask python
+junior java developer,sql oops spring maven hibernate
+senior java developer,hibernate spring junit maven oops java sql
+associate java developer,oops hibernate maven spring java junit
+lead java developer,oops spring junit maven hibernate
+intern java developer,junit oops hibernate spring java maven sql
+consultant java developer,java oops maven hibernate sql spring
+junior dotnet developer,asp.net c# visual studio mvc .net sql entity framework
+senior dotnet developer,entity framework visual studio mvc c# sql
+associate dotnet developer,sql c# asp.net visual studio .net
+lead dotnet developer,asp.net sql visual studio .net mvc c# entity framework
+intern dotnet developer,mvc .net c# asp.net entity framework sql
+consultant dotnet developer,entity framework sql visual studio c# asp.net
+junior android developer,jetpack compose kotlin xml firebase android studio
+senior android developer,java xml firebase android studio kotlin jetpack compose
+associate android developer,xml jetpack compose android studio java kotlin
+lead android developer,xml firebase jetpack compose java android studio
+intern android developer,jetpack compose kotlin firebase xml android studio java
+consultant android developer,kotlin xml java firebase jetpack compose android studio
+junior ios developer,core data firebase swift mvvm xcode ui kit
+senior ios developer,swift firebase core data mvvm xcode
+associate ios developer,mvvm core data firebase ui kit xcode
+lead ios developer,core data xcode swift mvvm firebase
+intern ios developer,xcode swift mvvm core data ui kit
+consultant ios developer,firebase core data ui kit xcode swift mvvm
+junior devops engineer,linux terraform aws docker ansible jenkins gitlab
+senior devops engineer,terraform kubernetes gitlab ansible jenkins linux docker aws
+associate devops engineer,terraform aws linux kubernetes ansible
+lead devops engineer,kubernetes ansible linux jenkins docker
+intern devops engineer,docker linux kubernetes gitlab ansible
+consultant devops engineer,gitlab ansible jenkins docker aws terraform
+junior cloud engineer,aws terraform azure linux gcp docker
+senior cloud engineer,gcp azure terraform cloudformation linux docker
+associate cloud engineer,docker azure gcp linux terraform aws cloudformation
+lead cloud engineer,linux gcp docker terraform aws cloudformation azure
+intern cloud engineer,cloudformation gcp azure docker terraform
+consultant cloud engineer,docker linux aws azure gcp cloudformation terraform
+junior data analyst,pandas matplotlib numpy powerbi python
+senior data analyst,matplotlib powerbi tableau numpy python pandas excel
+associate data analyst,numpy pandas matplotlib excel python sql tableau powerbi
+lead data analyst,numpy python powerbi pandas excel tableau sql matplotlib
+intern data analyst,excel sql pandas numpy python powerbi tableau
+consultant data analyst,powerbi pandas matplotlib numpy sql tableau python excel
+junior data scientist,python numpy pandas tensorflow matplotlib
+senior data scientist,tensorflow python matplotlib scikit-learn pandas machine learning
+associate data scientist,tensorflow matplotlib python numpy scikit-learn
+lead data scientist,pandas machine learning tensorflow python numpy scikit-learn matplotlib
+intern data scientist,machine learning matplotlib numpy scikit-learn tensorflow python pandas
+consultant data scientist,python matplotlib scikit-learn numpy machine learning pandas tensorflow
+junior ml engineer,tensorflow pytorch keras python sklearn
+senior ml engineer,pytorch tensorflow deep learning machine learning python sklearn
+associate ml engineer,tensorflow machine learning python deep learning keras pytorch
+lead ml engineer,deep learning python machine learning keras sklearn
+intern ml engineer,sklearn keras machine learning deep learning pytorch python
+consultant ml engineer,python keras sklearn tensorflow machine learning
+junior ai engineer,pytorch transformers nlp llm tensorflow huggingface
+senior ai engineer,huggingface python transformers nlp llm pytorch tensorflow
+associate ai engineer,huggingface nlp llm pytorch tensorflow transformers
+lead ai engineer,transformers huggingface tensorflow python llm nlp
+intern ai engineer,nlp transformers llm pytorch tensorflow python
+consultant ai engineer,nlp tensorflow huggingface llm python transformers pytorch
+junior nlp engineer,bert llm spacy python transformers
+senior nlp engineer,transformers nlp llm python spacy bert
+associate nlp engineer,nlp spacy huggingface bert transformers llm python
+lead nlp engineer,llm python bert nlp transformers huggingface
+intern nlp engineer,nlp spacy python transformers bert llm
+consultant nlp engineer,huggingface bert nlp llm transformers spacy python
+junior cybersecurity analyst,network security wireshark kali linux vulnerability assessment firewalls
+senior cybersecurity analyst,linux vulnerability assessment kali linux network security wireshark
+associate cybersecurity analyst,linux wireshark network security vulnerability assessment firewalls
+lead cybersecurity analyst,firewalls linux network security kali linux wireshark vulnerability assessment
+intern cybersecurity analyst,wireshark linux kali linux firewalls vulnerability assessment network security
+consultant cybersecurity analyst,linux vulnerability assessment firewalls kali linux network security
+junior blockchain developer,smart contracts ganache truffle solidity ethereum web3
+senior blockchain developer,smart contracts truffle solidity ethereum web3
+associate blockchain developer,ganache solidity truffle web3 ethereum
+lead blockchain developer,truffle solidity web3 ganache ethereum
+intern blockchain developer,solidity ganache truffle smart contracts ethereum
+consultant blockchain developer,smart contracts truffle ethereum solidity web3 ganache
+junior qa tester,test cases bug reporting manual testing jira selenium postman
+senior qa tester,postman manual testing selenium bug reporting jira
+associate qa tester,test cases postman bug reporting jira selenium manual testing
+lead qa tester,bug reporting jira test cases manual testing postman selenium
+intern qa tester,manual testing test cases postman selenium bug reporting
+consultant qa tester,selenium bug reporting jira postman test cases manual testing

@@ -1,0 +1,152 @@
+skill,TP,FP,FN,support,precision,recall
+python,5,0,2,7,1.0,0.7143
+sql,6,0,1,7,1.0,0.8571
+c,0,0,5,5,0.0,0.0
+excel,3,0,1,4,1.0,0.75
+css,2,0,1,3,1.0,0.6667
+html,2,0,1,3,1.0,0.6667
+javascript,2,0,1,3,1.0,0.6667
+networking,1,0,2,3,1.0,0.3333
+react,3,0,0,3,1.0,1.0
+seo,3,0,0,3,1.0,1.0
+unity,3,0,0,3,1.0,1.0
+3d modeling,2,0,0,2,1.0,1.0
+arduino,2,0,0,2,1.0,1.0
+communication,1,0,1,2,1.0,0.5
+data visualization,2,0,0,2,1.0,1.0
+deep learning,2,0,0,2,1.0,1.0
+docker,2,0,0,2,1.0,1.0
+editing,0,0,2,2,0.0,0.0
+hadoop,2,0,0,2,1.0,1.0
+java,2,0,0,2,1.0,1.0
+linux,2,0,0,2,1.0,1.0
+matlab,2,0,0,2,1.0,1.0
+mongodb,2,0,0,2,1.0,1.0
+node js,2,0,0,2,1.0,1.0
+requirements gathering,2,0,0,2,1.0,1.0
+spark,2,0,0,2,1.0,1.0
+system design,2,0,0,2,1.0,1.0
+tensorflow,2,0,0,2,1.0,1.0
+troubleshooting,0,0,2,2,0.0,0.0
+3d objects,1,0,0,1,1.0,1.0
+adobe xd,1,0,0,1,1.0,1.0
+agile,1,0,0,1,1.0,1.0
+algorithms,1,0,0,1,1.0,1.0
+analytics,0,0,1,1,0.0,0.0
+android studio,1,0,0,1,1.0,1.0
+api development,1,0,0,1,1.0,1.0
+api writing,1,0,0,1,1.0,1.0
+arcore,1,0,0,1,1.0,1.0
+autocad,1,0,0,1,1.0,1.0
+aws,1,0,0,1,1.0,1.0
+backlinking,0,0,1,1,0.0,0.0
+bash scripting,1,0,0,1,1.0,1.0
+branding,1,0,0,1,1.0,1.0
+business analysis,1,0,0,1,1.0,1.0
+business process,1,0,0,1,1.0,1.0
+cad,0,0,1,1,0.0,0.0
+ci cd,1,0,0,1,1.0,1.0
+circuit design,1,0,0,1,1.0,1.0
+cisco,1,0,0,1,1.0,1.0
+cloud,1,0,0,1,1.0,1.0
+cloud databases,1,0,0,1,1.0,1.0
+compliance,0,0,1,1,0.0,0.0
+configuration,0,0,1,1,0.0,0.0
+construction,0,0,1,1,0.0,0.0
+copywriting,1,0,0,1,1.0,1.0
+creativity,0,0,1,1,0.0,0.0
+crm,1,0,0,1,1.0,1.0
+dart,1,0,0,1,1.0,1.0
+data analysis,1,0,0,1,1.0,1.0
+data modeling,1,0,0,1,1.0,1.0
+data pipelines,1,0,0,1,1.0,1.0
+data preprocessing,1,0,0,1,1.0,1.0
+data structures,1,0,0,1,1.0,1.0
+database design,1,0,0,1,1.0,1.0
+documentation,0,0,1,1,0.0,0.0
+employee engagement,1,0,0,1,1.0,1.0
+estimation,1,0,0,1,1.0,1.0
+ethereum,1,0,0,1,1.0,1.0
+etl,1,0,0,1,1.0,1.0
+etl pipelines,1,0,0,1,1.0,1.0
+express,1,0,0,1,1.0,1.0
+figma,1,0,0,1,1.0,1.0
+financial modeling,1,0,0,1,1.0,1.0
+firebase,1,0,0,1,1.0,1.0
+firewalls,1,0,0,1,1.0,1.0
+flutter,1,0,0,1,1.0,1.0
+forecasting,1,0,0,1,1.0,1.0
+game physics,1,0,0,1,1.0,1.0
+google ads,1,0,0,1,1.0,1.0
+google analytics,1,0,0,1,1.0,1.0
+hardware,1,0,0,1,1.0,1.0
+illustrator,1,0,0,1,1.0,1.0
+iot,1,0,0,1,1.0,1.0
+jenkins,1,0,0,1,1.0,1.0
+jira,1,0,0,1,1.0,1.0
+keyword research,1,0,0,1,1.0,1.0
+kotlin,1,0,0,1,1.0,1.0
+kubernetes,1,0,0,1,1.0,1.0
+lean,1,0,0,1,1.0,1.0
+machine learning,1,0,0,1,1.0,1.0
+manual testing,1,0,0,1,1.0,1.0
+manufacturing,0,0,1,1,0.0,0.0
+microcontrollers,1,0,0,1,1.0,1.0
+mysql,1,0,0,1,1.0,1.0
+natural language processing,1,0,0,1,1.0,1.0
+network security,1,0,0,1,1.0,1.0
+nlp,1,0,0,1,1.0,1.0
+oracle,1,0,0,1,1.0,1.0
+oracle erp,1,0,0,1,1.0,1.0
+payroll,1,0,0,1,1.0,1.0
+pcb design,1,0,0,1,1.0,1.0
+penetration testing,1,0,0,1,1.0,1.0
+photoshop,1,0,0,1,1.0,1.0
+pmp,1,0,0,1,1.0,1.0
+power systems,0,0,1,1,0.0,0.0
+problem solving,1,0,0,1,1.0,1.0
+process improvement,1,0,0,1,1.0,1.0
+process optimization,1,0,0,1,1.0,1.0
+product roadmap,1,0,0,1,1.0,1.0
+project planning,1,0,0,1,1.0,1.0
+prototyping,0,0,1,1,0.0,0.0
+pytorch,1,0,0,1,1.0,1.0
+recruitment,1,0,0,1,1.0,1.0
+reporting,0,0,1,1,0.0,0.0
+research,1,0,0,1,1.0,1.0
+research methodology,1,0,0,1,1.0,1.0
+risk management,1,0,0,1,1.0,1.0
+robot kinematics,1,0,0,1,1.0,1.0
+ros,1,0,0,1,1.0,1.0
+routing,0,0,1,1,0.0,0.0
+sap,1,0,0,1,1.0,1.0
+scala,1,0,0,1,1.0,1.0
+scikit learn,1,0,0,1,1.0,1.0
+scrum,0,0,1,1,0.0,0.0
+selenium,1,0,0,1,1.0,1.0
+siem,1,0,0,1,1.0,1.0
+six sigma,1,0,0,1,1.0,1.0
+smart contracts,1,0,0,1,1.0,1.0
+social media,1,0,0,1,1.0,1.0
+solidity,1,0,0,1,1.0,1.0
+solidworks,1,0,0,1,1.0,1.0
+stakeholder management,1,0,0,1,1.0,1.0
+statistics,1,0,0,1,1.0,1.0
+structural analysis,1,0,0,1,1.0,1.0
+supply chain,1,0,0,1,1.0,1.0
+support tickets,1,0,0,1,1.0,1.0
+switching,0,0,1,1,0.0,0.0
+tableau,1,0,0,1,1.0,1.0
+team leadership,1,0,0,1,1.0,1.0
+terraform,1,0,0,1,1.0,1.0
+test cases,0,0,1,1,0.0,0.0
+thermodynamics,1,0,0,1,1.0,1.0
+ui design,0,0,1,1,0.0,0.0
+uml,1,0,0,1,1.0,1.0
+valuation,1,0,0,1,1.0,1.0
+vpn,1,0,0,1,1.0,1.0
+vr design,1,0,0,1,1.0,1.0
+web3 js,1,0,0,1,1.0,1.0
+windows,1,0,0,1,1.0,1.0
+wireframing,0,0,1,1,0.0,0.0
+xml,1,0,0,1,1.0,1.0

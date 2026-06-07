@@ -1,0 +1,302 @@
+[
+  {
+    "resume_id": "R1",
+    "job_role": "Data Scientist",
+    "expected_skills": ["python", "machine learning", "sql", "data analysis"],
+    "resume_text": "Skilled in Python and SQL. Applied machine learning for predictive modeling and data analysis."
+  },
+  {
+    "resume_id": "R2",
+    "job_role": "Web Developer",
+    "expected_skills": ["html", "css", "javascript", "react"],
+    "resume_text": "Built responsive websites using HTML, CSS, and JavaScript. Learning React for frontend development."
+  },
+  {
+    "resume_id": "R3",
+    "job_role": "Android Developer",
+    "expected_skills": ["java", "kotlin", "android studio", "xml"],
+    "resume_text": "Experienced with Java and Kotlin. Designed Android apps using Android Studio and XML layouts."
+  },
+  {
+    "resume_id": "R4",
+    "job_role": "AI Engineer",
+    "expected_skills": ["python", "deep learning", "tensorflow", "natural language processing"],
+    "resume_text": "Worked on NLP projects with TensorFlow and deep learning. Proficient in Python."
+  },
+  {
+    "resume_id": "R5",
+    "job_role": "Database Administrator",
+    "expected_skills": ["sql", "mysql", "oracle", "database design"],
+    "resume_text": "Expert in SQL and MySQL. Worked on Oracle databases with focus on database design and optimization."
+  },
+  {
+    "resume_id": "R6",
+    "job_role": "Cloud Engineer",
+    "expected_skills": ["aws", "docker", "kubernetes", "terraform"],
+    "resume_text": "Hands-on with AWS deployment. Containerized apps using Docker and Kubernetes. Familiar with Terraform."
+  },
+  {
+    "resume_id": "R7",
+    "job_role": "Cybersecurity Analyst",
+    "expected_skills": ["network security", "firewalls", "penetration testing", "siem"],
+    "resume_text": "Conducted penetration testing and managed network security with firewalls. Worked with SIEM tools."
+  },
+  {
+    "resume_id": "R8",
+    "job_role": "Business Analyst",
+    "expected_skills": ["excel", "sql", "data visualization", "requirements gathering"],
+    "resume_text": "Proficient in Excel and SQL. Created dashboards for data visualization. Skilled in requirements gathering."
+  },
+  {
+    "resume_id": "R9",
+    "job_role": "DevOps Engineer",
+    "expected_skills": ["ci cd", "jenkins", "docker", "linux"],
+    "resume_text": "Implemented CI/CD pipelines using Jenkins. Automated deployment with Docker. Strong Linux skills."
+  },
+  {
+    "resume_id": "R10",
+    "job_role": "Frontend Developer",
+    "expected_skills": ["html", "css", "javascript", "react"],
+    "resume_text": "Developed UI using HTML, CSS, and JavaScript. Built components with React."
+  },
+  {
+    "resume_id": "R11",
+    "job_role": "Backend Developer",
+    "expected_skills": ["node.js", "express", "mongodb", "api development"],
+    "resume_text": "Created REST APIs using Node.js and Express. Integrated with MongoDB for data storage."
+  },
+  {
+    "resume_id": "R12",
+    "job_role": "Full Stack Developer",
+    "expected_skills": ["html", "css", "javascript", "node.js", "react", "mongodb"],
+    "resume_text": "Built end-to-end applications using React for frontend and Node.js with MongoDB for backend."
+  },
+  {
+    "resume_id": "R13",
+    "job_role": "Software Engineer",
+    "expected_skills": ["c++", "java", "data structures", "algorithms"],
+    "resume_text": "Strong knowledge of Data Structures and Algorithms. Implemented projects in Java and C++."
+  },
+  {
+    "resume_id": "R14",
+    "job_role": "Systems Engineer",
+    "expected_skills": ["linux", "bash scripting", "networking", "troubleshooting"],
+    "resume_text": "Worked with Linux servers, automated tasks using Bash scripting, and resolved system issues."
+  },
+  {
+    "resume_id": "R15",
+    "job_role": "QA Engineer",
+    "expected_skills": ["manual testing", "selenium", "jira", "test cases"],
+    "resume_text": "Executed manual and automated testing using Selenium. Documented defects in JIRA."
+  },
+  {
+    "resume_id": "R16",
+    "job_role": "Machine Learning Engineer",
+    "expected_skills": ["python", "scikit-learn", "tensorflow", "data preprocessing"],
+    "resume_text": "Developed machine learning models using Scikit-learn and TensorFlow. Focused on data preprocessing."
+  },
+  {
+    "resume_id": "R17",
+    "job_role": "Data Engineer",
+    "expected_skills": ["python", "hadoop", "spark", "etl pipelines"],
+    "resume_text": "Built ETL pipelines using Spark and Hadoop. Automated data workflows with Python."
+  },
+  {
+    "resume_id": "R18",
+    "job_role": "Network Engineer",
+    "expected_skills": ["cisco", "routing", "switching", "vpn"],
+    "resume_text": "Configured Cisco routers and switches. Established VPN connections and monitored traffic."
+  },
+  {
+    "resume_id": "R19",
+    "job_role": "IT Support Specialist",
+    "expected_skills": ["troubleshooting", "windows", "networking", "hardware"],
+    "resume_text": "Provided IT support for hardware and networking issues. Troubleshot Windows systems."
+  },
+  {
+    "resume_id": "R20",
+    "job_role": "Product Manager",
+    "expected_skills": ["agile", "scrum", "product roadmap", "stakeholder management"],
+    "resume_text": "Managed product lifecycle, created roadmaps, and worked with stakeholders in agile environments."
+  },
+  {
+    "resume_id": "R21",
+    "job_role": "UI/UX Designer",
+    "expected_skills": ["figma", "adobe xd", "wireframing", "prototyping"],
+    "resume_text": "Designed user interfaces and wireframes using Figma and Adobe XD. Created interactive prototypes."
+  },
+  {
+    "resume_id": "R22",
+    "job_role": "Graphic Designer",
+    "expected_skills": ["photoshop", "illustrator", "branding", "creativity"],
+    "resume_text": "Worked on branding projects using Photoshop and Illustrator. Delivered creative designs."
+  },
+  {
+    "resume_id": "R23",
+    "job_role": "Project Manager",
+    "expected_skills": ["pmp", "project planning", "risk management", "team leadership"],
+    "resume_text": "Led project teams, planned project execution, and managed risks with PMP methodologies."
+  },
+  {
+    "resume_id": "R24",
+    "job_role": "Blockchain Developer",
+    "expected_skills": ["solidity", "ethereum", "smart contracts", "web3.js"],
+    "resume_text": "Developed smart contracts using Solidity on Ethereum. Integrated blockchain with Web3.js."
+  },
+  {
+    "resume_id": "R25",
+    "job_role": "Game Developer",
+    "expected_skills": ["unity", "c#", "game physics", "3d modeling"],
+    "resume_text": "Developed 2D and 3D games using Unity and C#. Implemented game physics and mechanics."
+  },
+  {
+    "resume_id": "R26",
+    "job_role": "Embedded Systems Engineer",
+    "expected_skills": ["c", "arduino", "microcontrollers", "iot"],
+    "resume_text": "Programmed Arduino microcontrollers using C. Built IoT-based embedded systems."
+  },
+  {
+    "resume_id": "R27",
+    "job_role": "Electrical Engineer",
+    "expected_skills": ["matlab", "circuit design", "power systems", "pcb design"],
+    "resume_text": "Designed electrical circuits and PCB layouts. Used MATLAB for simulations."
+  },
+  {
+    "resume_id": "R28",
+    "job_role": "Mechanical Engineer",
+    "expected_skills": ["cad", "solidworks", "thermodynamics", "manufacturing"],
+    "resume_text": "Designed mechanical components with SolidWorks. Knowledgeable in thermodynamics."
+  },
+  {
+    "resume_id": "R29",
+    "job_role": "Civil Engineer",
+    "expected_skills": ["autocad", "structural analysis", "construction", "estimation"],
+    "resume_text": "Created building designs in AutoCAD. Conducted structural analysis and cost estimation."
+  },
+  {
+    "resume_id": "R30",
+    "job_role": "Data Analyst",
+    "expected_skills": ["excel", "sql", "tableau", "data visualization"],
+    "resume_text": "Analyzed datasets using SQL and Excel. Built dashboards in Tableau for visualization."
+  },
+  {
+    "resume_id": "R31",
+    "job_role": "Operations Manager",
+    "expected_skills": ["supply chain", "process improvement", "lean", "six sigma"],
+    "resume_text": "Improved processes with Lean Six Sigma. Managed supply chain operations efficiently."
+  },
+  {
+    "resume_id": "R32",
+    "job_role": "Content Writer",
+    "expected_skills": ["seo", "copywriting", "research", "editing"],
+    "resume_text": "Wrote SEO-friendly articles. Strong in copywriting and content research."
+  },
+  {
+    "resume_id": "R33",
+    "job_role": "Digital Marketer",
+    "expected_skills": ["seo", "social media", "google ads", "analytics"],
+    "resume_text": "Managed SEO campaigns and ran Google Ads. Optimized social media marketing."
+  },
+  {
+    "resume_id": "R34",
+    "job_role": "HR Manager",
+    "expected_skills": ["recruitment", "employee engagement", "payroll", "compliance"],
+    "resume_text": "Handled recruitment drives, payroll management, and employee engagement programs."
+  },
+  {
+    "resume_id": "R35",
+    "job_role": "Financial Analyst",
+    "expected_skills": ["excel", "financial modeling", "forecasting", "valuation"],
+    "resume_text": "Created financial models and performed forecasting. Skilled in company valuation."
+  },
+  {
+    "resume_id": "R36",
+    "job_role": "Research Scientist",
+    "expected_skills": ["python", "matlab", "statistics", "research methodology"],
+    "resume_text": "Conducted scientific research using MATLAB and Python. Applied advanced statistics."
+  },
+  {
+    "resume_id": "R37",
+    "job_role": "Robotics Engineer",
+    "expected_skills": ["ros", "python", "robot kinematics", "arduino"],
+    "resume_text": "Built robots using Arduino and ROS framework. Implemented robot kinematics algorithms."
+  },
+  {
+    "resume_id": "R38",
+    "job_role": "AI Researcher",
+    "expected_skills": ["python", "deep learning", "pytorch", "nlp"],
+    "resume_text": "Researched NLP applications using PyTorch and deep learning. Strong Python background."
+  },
+  {
+    "resume_id": "R39",
+    "job_role": "Big Data Engineer",
+    "expected_skills": ["hadoop", "spark", "scala", "data pipelines"],
+    "resume_text": "Developed data pipelines with Hadoop and Spark. Worked with Scala for big data processing."
+  },
+  {
+    "resume_id": "R40",
+    "job_role": "Systems Analyst",
+    "expected_skills": ["requirements gathering", "uml", "sql", "system design"],
+    "resume_text": "Gathered requirements, created UML diagrams, and supported system design using SQL."
+  },
+  {
+    "resume_id": "R41",
+    "job_role": "ERP Consultant",
+    "expected_skills": ["sap", "oracle erp", "business process", "configuration"],
+    "resume_text": "Implemented SAP ERP solutions. Configured modules to improve business processes."
+  },
+  {
+    "resume_id": "R42",
+    "job_role": "Technical Writer",
+    "expected_skills": ["documentation", "api writing", "editing", "communication"],
+    "resume_text": "Created technical documents and API guides. Focused on clear communication."
+  },
+  {
+    "resume_id": "R43",
+    "job_role": "Mobile App Developer",
+    "expected_skills": ["flutter", "dart", "firebase", "ui design"],
+    "resume_text": "Built cross-platform apps using Flutter and Dart. Integrated with Firebase backend."
+  },
+  {
+    "resume_id": "R44",
+    "job_role": "VR Developer",
+    "expected_skills": ["unity", "c#", "vr design", "3d modeling"],
+    "resume_text": "Developed VR experiences in Unity with C#. Designed immersive 3D environments."
+  },
+  {
+    "resume_id": "R45",
+    "job_role": "AR Developer",
+    "expected_skills": ["arcore", "unity", "c#", "3d objects"],
+    "resume_text": "Created AR apps using ARCore and Unity. Integrated 3D objects for interactions."
+  },
+  {
+    "resume_id": "R46",
+    "job_role": "Data Architect",
+    "expected_skills": ["data modeling", "sql", "etl", "cloud databases"],
+    "resume_text": "Designed data models and architectures. Managed ETL and cloud-based databases."
+  },
+  {
+    "resume_id": "R47",
+    "job_role": "SEO Specialist",
+    "expected_skills": ["seo", "google analytics", "keyword research", "backlinking"],
+    "resume_text": "Optimized websites for SEO. Conducted keyword research and tracked results in Analytics."
+  },
+  {
+    "resume_id": "R48",
+    "job_role": "Customer Support Specialist",
+    "expected_skills": ["communication", "crm", "problem solving", "support tickets"],
+    "resume_text": "Resolved customer issues via CRM systems. Provided effective problem-solving support."
+  },
+  {
+    "resume_id": "R49",
+    "job_role": "IT Consultant",
+    "expected_skills": ["business analysis", "system design", "cloud", "networking"],
+    "resume_text": "Advised clients on IT system design and cloud adoption. Strong business analysis skills."
+  },
+  {
+    "resume_id": "R50",
+    "job_role": "Operations Analyst",
+    "expected_skills": ["excel", "sql", "process optimization", "reporting"],
+    "resume_text": "Created operational reports using SQL and Excel. Worked on process optimization tasks."
+  }
+]

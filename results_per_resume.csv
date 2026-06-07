@@ -1,0 +1,51 @@
+resume_id,job_role,expected_skills,extracted_skills,TP,FP,FN,precision,recall,f1_score,accuracy_pct
+R1,Data Scientist,python;machine learning;sql;data analysis,python;machine learning;sql;data analysis,4,0,0,1.0,1.0,1.0,100.0
+R2,Web Developer,html;css;javascript;react,html;css;javascript;react,4,0,0,1.0,1.0,1.0,100.0
+R3,Android Developer,java;kotlin;android studio;xml,java;kotlin;android studio;xml,4,0,0,1.0,1.0,1.0,100.0
+R4,AI Engineer,python;deep learning;tensorflow;natural language processing,python;deep learning;tensorflow;natural language processing,4,0,0,1.0,1.0,1.0,100.0
+R5,Database Administrator,sql;mysql;oracle;database design,sql;mysql;oracle;database design,4,0,0,1.0,1.0,1.0,100.0
+R6,Cloud Engineer,aws;docker;kubernetes;terraform,aws;docker;kubernetes;terraform,4,0,0,1.0,1.0,1.0,100.0
+R7,Cybersecurity Analyst,network security;firewalls;penetration testing;siem,network security;firewalls;penetration testing;siem,4,0,0,1.0,1.0,1.0,100.0
+R8,Business Analyst,excel;sql;data visualization;requirements gathering,excel;sql;data visualization;requirements gathering,4,0,0,1.0,1.0,1.0,100.0
+R9,DevOps Engineer,ci cd;jenkins;docker;linux,ci cd;jenkins;docker;linux,4,0,0,1.0,1.0,1.0,100.0
+R10,Frontend Developer,html;css;javascript;react,html;css;javascript;react,4,0,0,1.0,1.0,1.0,100.0
+R11,Backend Developer,node js;express;mongodb;api development,node js;express;mongodb;api development,4,0,0,1.0,1.0,1.0,100.0
+R12,Full Stack Developer,html;css;javascript;node js;react;mongodb,node js;react;mongodb,3,0,3,1.0,0.5,0.6667,50.0
+R13,Software Engineer,c;java;data structures;algorithms,java;data structures;algorithms,3,0,1,1.0,0.75,0.8571,75.0
+R14,Systems Engineer,linux;bash scripting;networking;troubleshooting,linux;bash scripting,2,0,2,1.0,0.5,0.6667,50.0
+R15,QA Engineer,manual testing;selenium;jira;test cases,manual testing;selenium;jira,3,0,1,1.0,0.75,0.8571,75.0
+R16,Machine Learning Engineer,python;scikit learn;tensorflow;data preprocessing,scikit learn;tensorflow;data preprocessing,3,0,1,1.0,0.75,0.8571,75.0
+R17,Data Engineer,python;hadoop;spark;etl pipelines,python;hadoop;spark;etl pipelines,4,0,0,1.0,1.0,1.0,100.0
+R18,Network Engineer,cisco;routing;switching;vpn,cisco;vpn,2,0,2,1.0,0.5,0.6667,50.0
+R19,IT Support Specialist,troubleshooting;windows;networking;hardware,windows;networking;hardware,3,0,1,1.0,0.75,0.8571,75.0
+R20,Product Manager,agile;scrum;product roadmap;stakeholder management,agile;product roadmap;stakeholder management,3,0,1,1.0,0.75,0.8571,75.0
+R21,UI/UX Designer,figma;adobe xd;wireframing;prototyping,figma;adobe xd,2,0,2,1.0,0.5,0.6667,50.0
+R22,Graphic Designer,photoshop;illustrator;branding;creativity,photoshop;illustrator;branding,3,0,1,1.0,0.75,0.8571,75.0
+R23,Project Manager,pmp;project planning;risk management;team leadership,pmp;project planning;risk management;team leadership,4,0,0,1.0,1.0,1.0,100.0
+R24,Blockchain Developer,solidity;ethereum;smart contracts;web3 js,solidity;ethereum;smart contracts;web3 js,4,0,0,1.0,1.0,1.0,100.0
+R25,Game Developer,unity;c;game physics;3d modeling,unity;game physics;3d modeling,3,0,1,1.0,0.75,0.8571,75.0
+R26,Embedded Systems Engineer,c;arduino;microcontrollers;iot,arduino;microcontrollers;iot,3,0,1,1.0,0.75,0.8571,75.0
+R27,Electrical Engineer,matlab;circuit design;power systems;pcb design,matlab;circuit design;pcb design,3,0,1,1.0,0.75,0.8571,75.0
+R28,Mechanical Engineer,cad;solidworks;thermodynamics;manufacturing,solidworks;thermodynamics,2,0,2,1.0,0.5,0.6667,50.0
+R29,Civil Engineer,autocad;structural analysis;construction;estimation,autocad;structural analysis;estimation,3,0,1,1.0,0.75,0.8571,75.0
+R30,Data Analyst,excel;sql;tableau;data visualization,excel;sql;tableau;data visualization,4,0,0,1.0,1.0,1.0,100.0
+R31,Operations Manager,supply chain;process improvement;lean;six sigma,supply chain;process improvement;lean;six sigma,4,0,0,1.0,1.0,1.0,100.0
+R32,Content Writer,seo;copywriting;research;editing,seo;copywriting;research,3,0,1,1.0,0.75,0.8571,75.0
+R33,Digital Marketer,seo;social media;google ads;analytics,seo;social media;google ads,3,0,1,1.0,0.75,0.8571,75.0
+R34,HR Manager,recruitment;employee engagement;payroll;compliance,recruitment;employee engagement;payroll,3,0,1,1.0,0.75,0.8571,75.0
+R35,Financial Analyst,excel;financial modeling;forecasting;valuation,financial modeling;forecasting;valuation,3,0,1,1.0,0.75,0.8571,75.0
+R36,Research Scientist,python;matlab;statistics;research methodology,python;matlab;statistics;research methodology,4,0,0,1.0,1.0,1.0,100.0
+R37,Robotics Engineer,ros;python;robot kinematics;arduino,ros;robot kinematics;arduino,3,0,1,1.0,0.75,0.8571,75.0
+R38,AI Researcher,python;deep learning;pytorch;nlp,python;deep learning;pytorch;nlp,4,0,0,1.0,1.0,1.0,100.0
+R39,Big Data Engineer,hadoop;spark;scala;data pipelines,hadoop;spark;scala;data pipelines,4,0,0,1.0,1.0,1.0,100.0
+R40,Systems Analyst,requirements gathering;uml;sql;system design,requirements gathering;uml;sql;system design,4,0,0,1.0,1.0,1.0,100.0
+R41,ERP Consultant,sap;oracle erp;business process;configuration,sap;oracle erp;business process,3,0,1,1.0,0.75,0.8571,75.0
+R42,Technical Writer,documentation;api writing;editing;communication,api writing;communication,2,0,2,1.0,0.5,0.6667,50.0
+R43,Mobile App Developer,flutter;dart;firebase;ui design,flutter;dart;firebase,3,0,1,1.0,0.75,0.8571,75.0
+R44,VR Developer,unity;c;vr design;3d modeling,unity;vr design;3d modeling,3,0,1,1.0,0.75,0.8571,75.0
+R45,AR Developer,arcore;unity;c;3d objects,arcore;unity;3d objects,3,0,1,1.0,0.75,0.8571,75.0
+R46,Data Architect,data modeling;sql;etl;cloud databases,data modeling;etl;cloud databases,3,0,1,1.0,0.75,0.8571,75.0
+R47,SEO Specialist,seo;google analytics;keyword research;backlinking,seo;google analytics;keyword research,3,0,1,1.0,0.75,0.8571,75.0
+R48,Customer Support Specialist,communication;crm;problem solving;support tickets,crm;problem solving;support tickets,3,0,1,1.0,0.75,0.8571,75.0
+R49,IT Consultant,business analysis;system design;cloud;networking,business analysis;system design;cloud,3,0,1,1.0,0.75,0.8571,75.0
+R50,Operations Analyst,excel;sql;process optimization;reporting,excel;sql;process optimization,3,0,1,1.0,0.75,0.8571,75.0

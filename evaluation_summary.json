@@ -1,0 +1,12 @@
+{
+  "num_resumes": 50,
+  "global_TP": 165,
+  "global_FP": 0,
+  "global_FN": 37,
+  "micro_precision": 1.0,
+  "micro_recall": 0.8168,
+  "micro_f1": 0.8992,
+  "macro_precision": 1.0,
+  "macro_recall": 0.82,
+  "macro_f1": 0.8914
+}
