@@ -2,13 +2,15 @@ import spacy
 import re
 from rapidfuzz import fuzz
 
-# Load spaCy English model
+# Load spaCy English model safely
 try:
     import en_core_web_sm
     nlp = en_core_web_sm.load()
 except Exception:
-    nlp = spacy.load("en_core_web_sm")
-
+    try:
+        nlp = spacy.load("en_core_web_sm")
+    except Exception:
+        nlp = spacy.blank("en")
 
 def normalize_skill(skill):
     return re.sub(r"[^a-zA-Z0-9]+", " ", skill.lower()).strip()
@@ -25,7 +27,11 @@ def extract_skills_with_nlp(resume_text, skills_list):
     normalized_skills = [normalize_skill(skill) for skill in skills_list]
 
     # Extract text chunks from resume
-    all_chunks = {normalize_skill(chunk.text) for chunk in doc.noun_chunks}
+    try:
+        all_chunks = {normalize_skill(chunk.text) for chunk in doc.noun_chunks}
+    except Exception:
+        all_chunks = set()
+
     all_tokens = {normalize_skill(token.text) for token in doc if not token.is_punct}
     all_resume_parts = list(all_chunks | all_tokens)
 
@@ -47,4 +53,4 @@ def extract_skills_with_nlp(resume_text, skills_list):
 
     return extracted_skills
 
-print("✅ Skills extraction updated: now avoids false positives like 'git' in 'digit'")
+print("✅ Skills extraction updated safely")
