@@ -3,7 +3,12 @@ import re
 from rapidfuzz import fuzz
 
 # Load spaCy English model
-nlp = spacy.load("en_core_web_sm")
+try:
+    import en_core_web_sm
+    nlp = en_core_web_sm.load()
+except Exception:
+    nlp = spacy.load("en_core_web_sm")
+
 
 def normalize_skill(skill):
     return re.sub(r"[^a-zA-Z0-9]+", " ", skill.lower()).strip()
